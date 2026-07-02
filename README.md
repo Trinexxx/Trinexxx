@@ -5,12 +5,12 @@
 
 👋 Hi, I’m Dionis Markov
 
-Founder & Lead Developer @ ValteraLabs
+Founder & Lead Developer @ ValtheraLabs
 
 Building AI-powered software, scalable cloud infrastructure, blockchain solutions, and modern web applications.
 
 <br>
-<a href="https://github.com/ValteraLabs">
+<a href="https://github.com/ValtheraLabs">
 <img src="https://img.shields.io/badge/🏢%20Organization-ValteraLabs-181717?style=for-the-badge&logo=github"/>
 </a>
 <img src="https://komarev.com/ghpvc/?username=Trinexxx&style=for-the-badge&color=0e75b6"/>
