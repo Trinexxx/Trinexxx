@@ -1,173 +1,75 @@
-<!-- ========================= -->
-<!--       HERO SECTION        -->
-<!-- ========================= -->
-<div align="center">
+# Hi, I'm Dionis Markov
 
-👋 Hi, I’m Dionis Markov
+I also go by **Trinexxx** online.
 
-Founder & Lead Developer @ ValtheraLabs
+Founder and lead developer at **ValtheraLabs**. I build AI-powered software, scalable cloud infrastructure, blockchain systems, developer tools, and modern web applications.
 
-Building AI-powered software, scalable cloud infrastructure, blockchain solutions, and modern web applications.
+## About Me
 
-<br>
-<a href="https://github.com/ValtheraLabs">
-<img src="https://img.shields.io/badge/🏢%20Organization-ValteraLabs-181717?style=for-the-badge&logo=github"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=Trinexxx&style=for-the-badge&color=0e75b6"/>
-</div>
+I am a full-stack software engineer focused on practical products, clean systems, and tools that solve real problems.
 
-⸻
+Most of my work lives inside the ValtheraLabs ecosystem, where I build production-ready software and open-source experiments.
 
-🚀 About Me
+## Current Focus
 
-I’m a full-stack software engineer passionate about designing scalable systems and building products that solve real-world problems.
+- Artificial intelligence
+- Full-stack engineering
+- Backend systems
+- Cloud infrastructure
+- Blockchain and Web3
+- SaaS platforms
+- Developer tooling
+- Cybersecurity
 
-Most of my work is developed and maintained inside the ValteraLabs organization.
+## ValtheraLabs
 
-Current Focus
+ValtheraLabs is my software organization for building:
 
-* 🤖 Artificial Intelligence
-* 🌐 Full Stack Engineering
-* ⚡ Backend Systems
-* ☁️ Cloud Infrastructure
-* 🔗 Blockchain & Web3
-* 🚀 SaaS Platforms
-* ⚙️ Developer Tooling
-* 🔒 Cybersecurity
+- AI applications
+- SaaS products
+- Developer tools
+- APIs
+- Cloud services
+- Automation platforms
+- Blockchain infrastructure
+- Open-source projects
 
-⸻
+Organization: https://github.com/ValtheraLabs
 
-🏢 About ValteraLabs
+## Tech Stack
 
-ValteraLabs is my software organization where I build production-ready software and open-source tools.
+**Languages:** TypeScript, JavaScript, Python, Java, C++, Go, Rust, PHP
 
-Building
+**Frontend:** React, Next.js, Vue, Tailwind CSS, HTML, CSS
 
-* AI Applications
-* SaaS Products
-* Developer Tools
-* APIs
-* Cloud Services
-* Automation Platforms
-* Blockchain Infrastructure
-* Open Source Projects
+**Backend:** Node.js, Express, NestJS
 
-Organization
+**Databases:** PostgreSQL, MySQL, MongoDB, Firebase, Supabase
 
-https://github.com/ValteraLabs
+**DevOps and Cloud:** Docker, Linux, Git, GitHub, Cloudflare, Bash
 
-⸻
+## Current Projects
 
-💻 Tech Stack
+- AI systems
+- Developer tools
+- Modern web applications
+- Cloud infrastructure
+- APIs and backend services
+- Blockchain infrastructure
+- Automation platforms
 
-Languages
+## Goals
 
-<p>
-<img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,go,rust,php"/>
-</p>
+- Launch production SaaS platforms
+- Expand the ValtheraLabs ecosystem
+- Build AI-powered developer tools
+- Contribute to open source
+- Grow a global software company
 
-Frontend
+## Links
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,html,css"/>
-</p>
+- GitHub: https://github.com/dionismarkov
+- Portfolio: https://dionismarkov.github.io
+- Organization: https://github.com/ValtheraLabs
 
-Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs"/>
-</p>
-
-Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,supabase"/>
-</p>
-
-DevOps & Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github,cloudflare,bash"/>
-</p>
-
-⸻
-
-📊 GitHub Analytics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Trinexxx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trinexxx&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</p>
-
-⸻
-
-🔥 Contribution Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Trinexxx&theme=tokyonight&hide_border=true"/>
-</p>
-
-⸻
-
-📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Trinexxx&theme=tokyo-night&hide_border=true"/>
-</p>
-
-⸻
-
-🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Trinexxx&theme=tokyonight&no-frame=true&column=4&row=2"/>
-</p>
-
-⸻
-
-🚀 Current Projects
-
-🏢 ValteraLabs
-
-* AI Systems
-* Developer Tools
-* Modern Web Applications
-* Cloud Infrastructure
-* APIs & Backend Services
-* Blockchain Infrastructure
-* Automation Platforms
-
-⸻
-
-🎯 Goals
-
-* Launch production SaaS platforms
-* Expand the ValteraLabs ecosystem
-* Build AI-powered developer tools
-* Contribute to Open Source
-* Grow a global software company
-
-⸻
-
-⭐ Featured Repositories
-
-Pin your best repositories on your GitHub profile:
-
-* 🌐 Company Website
-* 🤖 AI Platform
-* 🔗 Blockchain Project
-* ⚙️ Developer Tool
-* ☁️ SaaS Platform
-* 📦 Open Source Library
-
-⸻
-
-<div align="center">
-
-Thanks for visiting!
-
-If you find one of my projects useful, consider leaving a ⭐.
-
-Building software with purpose.
-
-</div>
+Thanks for visiting.
